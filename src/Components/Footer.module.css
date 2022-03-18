@@ -1,0 +1,7 @@
+.footer {
+  box-sizing: border-box;
+  color: #aaa;
+  height: 10rem;
+  padding-top: 5rem;
+  text-align: center;
+}

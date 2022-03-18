@@ -1,0 +1,25 @@
+.product {
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: 1fr 1fr;
+}
+
+.product img {
+  margin-bottom: 2rem;
+}
+
+.productTitle {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.price {
+  background: #91fb5d;
+  border-radius: 4px;
+  color: #017e01;
+  padding: .5rem;
+}
+
+.description {
+ font-size: 1.2rem;
+ line-height: 1.2;
+}

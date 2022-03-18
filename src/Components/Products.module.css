@@ -1,0 +1,9 @@
+.products {
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.productName {
+  margin: .5rem 0;
+}
