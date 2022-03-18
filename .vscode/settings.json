@@ -4,8 +4,8 @@
     "node_modules": true,
     ".vscode": true,
     ".gitignore": true,
-    "package.json": true,
-    "package-lock.json": true,
+    // "package.json": true,
+    // "package-lock.json": true,
     "public": true
   }
 }
